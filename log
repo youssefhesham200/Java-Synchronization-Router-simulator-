@@ -1,0 +1,123 @@
+(TC3 )(F) arrived and waiting
+(TC1 )(S) arrived
+(TC2 )(D) arrived
+connection 1: TC1 occupied
+connection 2: TC2 occupied
+connection 1: TC1 login
+connection 2: TC2 login
+connection 1: TC1 performs online activity
+connection 2: TC2 performs online activity
+TC1 logged out
+connection 1: TC3 occupied
+connection 1: TC3 login
+connection 1: TC3 performs online activity
+(tc3 )(g) arrived and waiting
+(tc1 )(a) arrived
+(tc2 )(f) arrived
+connection 1: tc1 occupied
+connection 2: tc2 occupied
+connection 1: tc1 login
+connection 2: tc2 login
+connection 1: tc1 performs online activity
+connection 2: tc2 performs online activity
+tc2 logged out
+connection 2: tc3 occupied
+connection 2: tc3 login
+connection 2: tc3 performs online activity
+(tc2 )(g) arrived
+(tc3 )(g) arrived and waiting
+(tc1 )(s) arrived
+connection 2: tc2 occupied
+connection 1: tc1 occupied
+connection 2: tc2 login
+connection 1: tc1 login
+connection 2: tc2 performs online activity
+connection 1: tc1 performs online activity
+connection2:tc2 logged out
+connection 0: tc3 occupied
+connection 0: tc3 login
+connection 0: tc3 performs online activity
+(tc3 )(f) arrived
+(tc2 )(g) arrived and waiting
+(tc1 )(s) arrived
+connection 2: tc3 occupied
+connection 1: tc1 occupied
+connection 2: tc3 login
+connection 1: tc1 login
+connection 2: tc3 performs online activity
+connection 1: tc1 performs online activity
+connection0:tc3 logged out
+connection 2: tc2 occupied
+connection 2: tc2 login
+connection 2: tc2 performs online activity
+(tc3 )(g) arrived and waiting
+(tc1 )(s) arrived
+(tc2 )(g) arrived
+connection 2: tc2 occupied
+connection 1: tc1 occupied
+connection 1: tc1 login
+connection 2: tc2 login
+connection 1: tc1 performs online activity
+connection 2: tc2 performs online activity
+connection1:tc1 logged out
+connection 1: tc3 occupied
+connection 1: tc3 login
+connection 1: tc3 performs online activity
+(tc3 )(g) arrived
+(tc2 )(g) arrived
+(tc4 )(h) arrived and waiting
+(tc1 )(f) arrived and waiting
+connection 2: tc3 occupied
+connection 1: tc2 occupied
+connection 2: tc3 login
+connection 1: tc2 login
+connection 1: tc2 performs online activity
+connection 2: tc3 performs online activity
+connection 1:tc2 logged out
+connection 1: tc4 occupied
+connection 1: tc4 login
+connection 1: tc4 performs online activity
+connection 1:tc4 logged out
+connection 1: tc1 occupied
+connection 1: tc1 login
+connection 1: tc1 performs online activity
+(tc4 )(h) arrived and waiting
+(tc2 )(4) arrived
+(tc1 )(t) arrived
+(tc5 )(a) arrived and waiting
+(tc3 )(g) arrived
+connection 1: tc2 occupied
+connection 3: tc3 occupied
+connection 2: tc1 occupied
+connection 1: tc2 login
+connection 3: tc3 login
+connection 2: tc1 login
+connection 2: tc1 performs online activity
+connection 3: tc3 performs online activity
+connection 1: tc2 performs online activity
+connection 3:tc3 logged out
+connection 3: tc4 occupied
+connection 3: tc4 login
+connection 3: tc4 performs online activity
+connection 1:tc2 logged out
+connection 1: tc5 occupied
+connection 1: tc5 login
+connection 1: tc5 performs online activity
+(tcq )(e) arrived
+(tc4 )(l) arrived and waiting
+(tc2 )(f) arrived
+(tc3 )(f) arrived
+connection 1: tcq occupied
+connection 3: tc3 occupied
+connection 2: tc2 occupied
+connection 1: tcq login
+connection 2: tc2 login
+connection 3: tc3 login
+connection 1: tcq performs online activity
+connection 3: tc3 performs online activity
+connection 2: tc2 performs online activity
+connection 1:tcq logged out
+connection 1: tc4 occupied
+connection 3:tc3 logged out
+connection 1: tc4 login
+connection 1: tc4 performs online activity
